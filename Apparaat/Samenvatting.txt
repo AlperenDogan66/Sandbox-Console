@@ -1,0 +1,20 @@
+﻿H10: Samenvatting
+
+- Als je geen Constructor niet definieërd,
+  ga je altijd een lege Cinstructor krijgen van de program zelf.
+
+- Wanener je ene Constructor definieërd,
+  dan is er geen lege Constructor meer van het program zelf.
+
+- Als je wilt dat deze Methode een nieuwe invulling kan geven in de SupKlasse,
+  Dan moet er in het methode het keyword "Virtual" staan. (Zie methode (Info)).
+
+- Voor Overerving doe je => SupKlasse : SuperKlasse (Vb. Laptop : Apparaat).
+
+- Je erft altijd alles over behalve de Constructor.
+
+- De volgorde van de Constructor ligt altijd Vast, eerst Constructor daarna de Base.
+
+- Methode "Info()"" gaan overschrijven zodat die een nieuwe invulling kan krijgen door de Methode "Override ToString()".
+
+- Abstracte Klasse kan je geen objecten van maken.
