@@ -1,4 +1,4 @@
-﻿H10: Samenvatting
+﻿H13: Samenvatting
 
 - Als je geen Constructor niet definieërd,
   ga je altijd een lege Cinstructor krijgen van de program zelf.

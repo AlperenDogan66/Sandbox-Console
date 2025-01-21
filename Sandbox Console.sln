@@ -9,7 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dino1", "Dino1\Dino1.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movie", "Movie\Movie.csproj", "{DB08F146-F725-428F-947D-26694099AB48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apparaat", "Apparaat\Apparaat.csproj", "{EC3738C2-A955-4FE8-987A-3FFFE42ECE03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apparaat", "Apparaat\Apparaat.csproj", "{EC3738C2-A955-4FE8-987A-3FFFE42ECE03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ziekenhuis (Essential)", "Ziekenhuis (Essential)\Ziekenhuis (Essential).csproj", "{0D38D496-898C-4EE0-845A-90F0E05AB917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kleur mixer (essential)", "Kleur mixer (essential)\Kleur mixer (essential).csproj", "{372AE4CC-2441-478E-A901-4F80CD27AFBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetlat", "Meetlat\Meetlat.csproj", "{3099B4F4-9A7A-4D81-AE26-00EFA6931D34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{EC3738C2-A955-4FE8-987A-3FFFE42ECE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC3738C2-A955-4FE8-987A-3FFFE42ECE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC3738C2-A955-4FE8-987A-3FFFE42ECE03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D38D496-898C-4EE0-845A-90F0E05AB917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D38D496-898C-4EE0-845A-90F0E05AB917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D38D496-898C-4EE0-845A-90F0E05AB917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D38D496-898C-4EE0-845A-90F0E05AB917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372AE4CC-2441-478E-A901-4F80CD27AFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372AE4CC-2441-478E-A901-4F80CD27AFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372AE4CC-2441-478E-A901-4F80CD27AFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372AE4CC-2441-478E-A901-4F80CD27AFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3099B4F4-9A7A-4D81-AE26-00EFA6931D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3099B4F4-9A7A-4D81-AE26-00EFA6931D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3099B4F4-9A7A-4D81-AE26-00EFA6931D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3099B4F4-9A7A-4D81-AE26-00EFA6931D34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
